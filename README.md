@@ -1,11 +1,6 @@
-# Juwl | Product landing page
+# Juwl
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-Fictional page created for the Responsive Web Design course from Freecodecamp. Designed by me.
-
-## Resume 
-
-This site was created for study purposes only, as a step towards completing the free codecamp responsive web development course. The purpose of the course is to learn HTML markup language and CSS styling. For this, I created, for example, an animation on the website of a rotating 3D cube (infinitely), as well as transitions with pure css, such as the sandwich menu inserted on the website, using the transform property and a checkbox or the arrow that appears after the hover over the "add to bag" button. The site also has media queries, CSS variables and is full responsive. You can take a look at [Juwl website](https://codepen.io/danielasegadilha/pen/dyqvNLZ?editors=0100)
-
-## 📚 Knowledge
-- HTML
-- Pure CSS
+**Juwl** is a product landing page for the Responsive Web Design course from Freecodecamp. Designed by me. This project is an example of a responsive web design, ensuring that the gallery looks great on devices of all sizes. Design by me. Its also possible to check it out at [codepen]([https://codepen.io/danielasegadilha/pen/RweKaOq](https://codepen.io/danielasegadilha/pen/dyqvNLZ)).
+<img src="/assets/product-landing-page.gif">
